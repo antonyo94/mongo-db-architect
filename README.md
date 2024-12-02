@@ -10,9 +10,11 @@ The MongoDB SI Architect Certification is an advanced certification program desi
 ## 📖 Lessons Learned
 This program helped me understand the advantages and disadvantages of MongoDB, as well as how to migrate from a relational database to a NoSQL database within a modern, cloud-based architecture. The key topics I fully mastered to pass the exam include:
 
-- Data Modeling: Designing efficient, scalable, and flexible data models tailored to the needs of modern applications.
-- Aggregation Pipelines: Mastering techniques for transforming, filtering, and aggregating data effectively within MongoDB.
-- Modernization Strategies: Integrating MongoDB into cloud-based systems and modernizing legacy infrastructure, akin to renovating an old house with modern amenities.
+- **Data Modeling**: Designing efficient, scalable, and flexible data models tailored to the needs of modern applications.
+- **Aggregation Pipelines**: Mastering techniques for transforming, filtering, and aggregating data effectively within MongoDB.
+- **Modernization Strategies**: Integrating MongoDB into cloud-based systems and modernizing legacy infrastructure, akin to renovating an old house with modern amenities.
 
-Morehover, it learned me what are key serviceses and solutions offered by MongoDB and how to use them to build a reliable data pipeline, from data sources to data visualization.
+Morehover, it learned me what are key serviceses and solutions offered by MongoDB and how to use them to build a reliable **data pipeline**, from data sources to data visualization.
 ​
+
+See this presentation for specific details: [MongoDB-SI-Architect-Certification-Presentation-Antonio-Abate.pdf](https://github.com/antonyo94/mongo-db-architect/blob/main/docs/MongoDB-SI-Architect-Certification-Presentation-Antonio-Abate.pdf) 
