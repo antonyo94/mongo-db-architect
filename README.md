@@ -17,4 +17,4 @@ This program helped me understand the advantages and disadvantages of MongoDB, a
 Morehover, it learned me what are key serviceses and solutions offered by MongoDB and how to use them to build a reliable **data pipeline**, from data sources to data visualization.
 ​
 
-See this presentation for specific details: [MongoDB-SI-Architect-Certification-Presentation-Antonio-Abate.pdf](https://github.com/antonyo94/mongo-db-architect/blob/main/docs/MongoDB-SI-Architect-Certification-Presentation-Antonio-Abate.pdf) 
+See this presentation for specific details: [MongoDB-SI-Architect-Certification-Presentation-Antonio-Abate.pdf](/docs/MongoDB-SI-Architect-Certification-Presentation-Antonio-Abate.pdf) 
